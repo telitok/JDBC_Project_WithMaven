@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5b92f23-6d65-4735-bb7c-44ce18f56795" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WfN29Y5VHpQck7u8T7i8nBfwmJ" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCase_Utility.test2">
+    <configuration name="SimpleConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC_Practice.SimpleConnection" />
+      <module name="JDBC_Project_WithMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBC_TestCases.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC_Project_WithMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JDBC_Practice" />
+      <option name="MAIN_CLASS_NAME" value="JDBC_Practice.JDBC_TestCases" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBC_TestCases.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC_Project_WithMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JDBC_Practice" />
+      <option name="MAIN_CLASS_NAME" value="JDBC_Practice.JDBC_TestCases" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase_Utility.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC_Project_WithMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JDBC_Practice" />
+      <option name="MAIN_CLASS_NAME" value="JDBC_Practice.TestCase_Utility" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase_Utility.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC_Project_WithMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JDBC_Practice" />
+      <option name="MAIN_CLASS_NAME" value="JDBC_Practice.TestCase_Utility" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCase_Utility.test2" />
+        <item itemvalue="TestNG.TestCase_Utility.test1" />
+        <item itemvalue="TestNG.JDBC_TestCases.Test1" />
+        <item itemvalue="TestNG.JDBC_TestCases.test1" />
+        <item itemvalue="Application.SimpleConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5b92f23-6d65-4735-bb7c-44ce18f56795" name="Default Changelist" comment="" />
+      <created>1579536479823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579536479823</updated>
+    </task>
+    <servers />
+  </component>
+</project>
